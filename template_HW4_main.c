@@ -28,8 +28,7 @@ int main (int argc, char *argv[])
     //**************************************************************
     // *** TO DO ***  start your thread processing
     //                wait for the threads to finish
-
-
+    
     // ***TO DO *** Process TOP 10 and display
 
     //**************************************************************
